@@ -7,9 +7,7 @@ What follows below is an actual Front End Challenge from a previous class. Pleas
 
 **One** rule: do **not** get external help from other students/friends/human beings. You **are** allowed to use all your notes, this very website, the big almighty Internet, your previous assignments.
 
-**Submit all your files**  **assignment@livecoding.nl with**  _[YOUR NAME] Front End Challenge_ **as the subject.**
-
-You have to submit your **HTML and CSS** files. Add any **images** you have used. Ideally you **send one compressed (zip) file**. To make things easier we added some of the images in this repository called **[images.zip](./images.zip)**. You are free to screen shot the webpage and use your own images.
+When you are done, please compress all your files and upload it to the Trello board.
 
 
 Please make sure you follow the **guidelines**:
